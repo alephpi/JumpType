@@ -1,0 +1,38 @@
+A crash yaml tutorial:
+  # comment with #
+
+  scalar:
+    numeral: 0
+    boolean: false
+    string:
+      - no quote
+      - 'single quote'
+      - "double quotes"
+    etc:
+
+  list:
+    - with
+    - hyphen
+
+  mapping: with ':'
+
+  object:
+    with: indentation and linebreak
+  
+  inline list: ['with', 'brackets']
+
+  inline object: {with: curly brackets}
+
+  multiline string: 
+    fold: > 
+      all
+      the
+      line
+      break
+    block: |
+      as
+      it
+      is
+
+  
+    
