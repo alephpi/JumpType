@@ -185,7 +185,6 @@
 -ix
 -ization
 -ize
--i-
 -kin
 -kinesis
 -kins
@@ -265,7 +264,6 @@
 -otic
 -otomy
 -ous
--o-
 -para
 -parous
 -path
@@ -316,7 +314,7 @@
 -rrhea
 -ric
 -ry
--’s
+-'s
 -s
 -scape
 -scope
@@ -339,7 +337,6 @@
 -stomy
 -taxis
 -taxy
-tend
 -th
 -therm
 -thermal, -thermic
