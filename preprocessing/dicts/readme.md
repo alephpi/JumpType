@@ -13,3 +13,5 @@ I have compared three syllabification methods based on [nltk](https://github.com
 For information, CMU dictionary is an open pronouncing dictionary of American English.
 
 [P2TK](https://sourceforge.net/projects/p2tk/) is another syllabification toolkit but I don't use here.
+
+`wordnet_stopwords.txt` word list that wordnet excludes of function words without actual meaning.
