@@ -7,3 +7,9 @@ Below three files come from https://github.com/hackerb9/gwordlist
 
 `prefix_list.csv` parse from https://lhncbc.nlm.nih.gov/LSG/Projects/lvg/current/docs/designDoc/UDF/derivations/prefixList.html
 `suffix_list.csv` parse from https://lhncbc.nlm.nih.gov/LSG/Projects/lvg/current/docs/designDoc/UDF/derivations/suffixList.html
+
+I have compared three syllabification methods based on [nltk](https://github.com/nltk/nltk/tree/develop/nltk/tokenize) as well as [syllabify](https://github.com/cainesap/syllabify)
+
+For information, CMU dictionary is an open pronouncing dictionary of American English.
+
+[P2TK](https://sourceforge.net/projects/p2tk/) is another syllabification toolkit but I don't use here.
