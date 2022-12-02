@@ -1,0 +1,26 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: jump_type
+  name: Jump Type
+  version:  "0.1"
+  author:
+    - 润心 <maosicheng98@gmail.com>
+  description:
+    音节化英语输入方案。
+
+engine:
+  processors:
+    - speller
+    - express_editor
+
+  segmentors:
+    - abc_segmentor
+    - fallback_segmentor
+  translators:
+    - echo_translator
+    - table_translator
+
+translator:
+  dictionary: jump_type_en
