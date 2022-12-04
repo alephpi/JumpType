@@ -1729,8 +1729,8 @@ anchormen	qikmn
 anchors	qika
 anchovies	qncva
 anchovy	qncvq	9
-ancient	qncnt	1163
-ancients	qncnta	55
+ancient	qnunt	1163
+ancients	qnunta	55
 ancillary	qnslrq	57
 and	and	4878
 andalusia	qndloq
@@ -6788,6 +6788,7 @@ cannisters	knsta
 cannon	knn	178
 cannonball	knnbl
 cannons	knna	16
+cannot	knt	178
 canny	knq	8
 canoe	knq	81
 canoed	kne	0
@@ -10174,6 +10175,7 @@ coosa	ksq
 coot	kt	6
 cooter	ktq
 coots	kta	4
+could	kd	4682
 cop	cop	74
 copartner	kprtnq	2
 copartners	kprtna
@@ -13858,7 +13860,7 @@ dodos	dda
 doe	doe
 doer	dr	14
 doers	da
-does	da	4139
+does	ds	4139
 doff	df	2
 doffing	dfi	2
 doffs	dfa
@@ -13974,6 +13976,7 @@ donning	dni	6
 donor	dnq	183
 donors	dna
 dons	dna
+don't	dnt	3348
 donut	dnt	5
 donuts	dnta
 doodad	ddd	0
@@ -15117,6 +15120,7 @@ eloquence	qlkwns	84
 eloquent	qlkwnt	79
 eloquently	qlkwntlq	23
 els	els	16
+else	els	1000
 elsewhere	qlswr	726
 elucidate	qlsdt	32
 elucidated	qlsdte	20
@@ -26513,7 +26517,7 @@ lending	lndi	189
 lendings	lndia
 lendl	lndl
 lends	lnda	54
-length	likx	2365
+length	lix	2365
 lengthen	lixn	18
 lengthened	lixne	37
 lengthening	lixni	30
@@ -30423,6 +30427,7 @@ muzzled	mzle	3
 muzzles	mzla
 muzzy	mzq
 mwanza	mwnzq
+my	my	3000
 myanmar	mynmr
 mycenaean	msnn
 mycology	mkljq
@@ -41949,6 +41954,7 @@ shot	ut	716
 shotgun	utgn	36
 shotguns	utgna
 shots	uta	134
+should	ud	532
 shoulder	uldq	532
 shouldered	ulde	23
 shouldering	uldri	5
@@ -46711,6 +46717,7 @@ thebes	xba
 thee	xq	693
 theft	xft	150
 thefts	xfta
+their	xr	130
 theirs	xrz	130
 theism	xzm	13
 them	xm	4563
@@ -46777,6 +46784,7 @@ thermostat	xmstt	23
 thermostats	xmstta
 thesauri	xsrq	2
 thesaurus	xsrs
+these	xs	50
 theses	xsa	50
 theseus	xzs
 thesis	xss	350
@@ -46867,6 +46875,7 @@ thoroughfares	xrfra
 thoroughly	xrlq	534
 thoroughness	xrns	27
 thorpe	xrp
+those	xs	539
 thou	xq	1029
 though	xq	3670
 thought	xt	3512
@@ -51804,6 +51813,7 @@ youngsters	yista
 youngstown	yiztn
 younker	yikq
 younkers	yika
+your	yr	429
 yours	yrz	429
 yourself	yslf	834
 yourselves	yrslvz	93
