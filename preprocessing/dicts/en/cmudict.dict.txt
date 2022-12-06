@@ -69824,8 +69824,8 @@ lengacher L EH1 NG G AH0 K ER0
 lengel L EH1 NG G AH0 L
 lenger L EH1 NG ER0
 lengle L IH1 NG AH0 L
-length L EH1 NG K TH
-length(2) L EH1 NG TH
+length L EH1 NG TH
+length(2) L EH1 NG K TH
 lengthen L EH1 NG TH AH0 N
 lengthen(2) L EH1 NG K TH AH0 N
 lengthened L EH1 NG TH AH0 N D
