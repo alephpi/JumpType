@@ -50,6 +50,15 @@ Just in all practice, when you try to optimize something, a kind of trade-off oc
 
 To reduce the coincidence rate and multiplicity, we made some compromises. first, words begin or end with vowels are added a `q` in the beginning or the end. second, words less than three letters are encoded as is(in the original form). thirdly, some grammatical termination are used for several types of words: plurals and third person single forms (`s`-forms) uses `a` termination instead of `s` or `z`; past particles (`ed`-forms) uses `e` instead of `t` or `d`. You may also notice that with this specific rules, we exploit all remaining letters (they are available because they are vowel letters)
 
+## Statistics
+
+A word/encoding length diagram briefly illustrates how much reduction we have done by JumpType.
+
+<img src='./preprocessing/encoding comparison.png'>
+where word is the original word, encoding denotes the encoding before abjad while the vowel free denotes the encoding after abjad.
+
+A more detailed analysis is provided [here](./preprocessing/dicts/encoding_syllabi.ipynb)
+
 ## Todo
 
 JumpType is far more than accomplished, as this doc is the first time I tried it in practice and already found some inconvenience during typing. I will continue to refine it and welcome any insights from whomever in interest.
