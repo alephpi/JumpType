@@ -1,5 +1,5 @@
 # JumpType
-
+A customized English input method based on [Rime](https://rime.im/)
 ## Prologue
 
 `xs ln is kmpze by jmp tp wx the qbv kd.`
@@ -75,5 +75,6 @@ JumpType is far more than accomplished, as this doc is the first time I tried it
 - [ ] build French version
 
 ## Usage
+We assume you are already familiar with Rime, if not, maybe take some look first in its official [wiki](https://github.com/rime/home/wiki).
 
 Add `jump_type_en.dict.yaml` and `jump_type.schema.yaml` file to your user directory, add `schema: jump_type` to the `schema_list` in `default.custom.yaml`, click redeploy and enjoy!
