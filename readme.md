@@ -53,3 +53,18 @@ To reduce the coincidence rate and multiplicity, we made some compromises. first
 ## Todo
 
 JumpType is far more than accomplished, as this doc is the first time I tried it in practice and already found some inconvenience during typing. I will continue to refine it and welcome any insights from whomever in interest.
+
+**the encoding map is not fully determined, may be largely changed in the future.**
+
+- [x] space auto input
+- [ ] build acronym dictionary
+- [ ] support initial capitalization transform
+- [ ] support full capitalization transform
+
+- [ ] continue optimizing encoding logic
+
+- [ ] build French version
+
+## Usage
+
+Add `jump_type_en.dict.yaml` and `jump_type.schema.yaml` file to your user directory, add `schema: jump_type` to the `schema_list` in `default.custom.yaml`, click redeploy and enjoy!
