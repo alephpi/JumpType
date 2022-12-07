@@ -3,3 +3,4 @@
 syllabify
 *test*
 preprocessing/dicts/dict_en.yaml
+*.txt
