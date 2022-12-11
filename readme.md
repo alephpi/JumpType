@@ -1,5 +1,7 @@
 # JumpType
+
 A customized English input method based on [Rime](https://rime.im/)
+
 ## Prologue
 
 `xs ln is kmpze by jmp tp wx the qbv kd.`
@@ -48,7 +50,11 @@ All single consonants are encoded as is, while the complex consonants are encode
 
 Just in all practice, when you try to optimize something, a kind of trade-off occurs. In our setting, our goal is to reduce the keystroke times, i.e. the encoding length. However, the more compressed an encoding is, the more possible words it encodes, this is so-called chongma(coincident codes). Intuitively, the coincidence rate is negative correlated to the average encoding length. Coincident codes are not inevitable neither disastrous unless their are too much.
 
-To reduce the coincidence rate and multiplicity, we made some compromises. first, words begin or end with vowels are added a `q` in the beginning or the end. second, words less than three letters are encoded as is(in the original form). thirdly, some grammatical termination are used for several types of words: plurals and third person single forms (`s`-forms) uses `a` termination instead of `s` or `z`; past particles (`ed`-forms) uses `e` instead of `t` or `d`. You may also notice that with this specific rules, we exploit all remaining letters (they are available because they are vowel letters)
+To reduce the coincidence rate and multiplicity, we made some compromises.
+
+1. words ~~begin or~~ end with vowels are added a `q` in the ~~beginning or~~ the end. (beginning vowels are replaced by the initial letter)
+2. words less than three letters are encoded as is(in the original form).
+3. ~~some grammatical termination are used for several types of words: plurals and third person single forms (`s`-forms) uses `a` termination instead of `s` or `z`; past particles (`ed`-forms) uses `e` instead of `t` or `d`.~~ they are now reverted to the phonetic ending to be more intuitive.
 
 ## Statistics
 
@@ -75,6 +81,7 @@ JumpType is far more than accomplished, as this doc is the first time I tried it
 - [ ] build French version
 
 ## Usage
+
 We assume you are already familiar with Rime, if not, maybe take some look first in its official [wiki](https://github.com/rime/home/wiki).
 
 Add `jump_type_en.dict.yaml` and `jump_type.schema.yaml` file to your user directory, add `schema: jump_type` to the `schema_list` in `default.custom.yaml`, click redeploy and enjoy!
