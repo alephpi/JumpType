@@ -1,0 +1,10 @@
+# Rime schema
+# encoding: utf-8
+
+patch:
+  speller/algebra:
+    - derive/^(.+)i([k|g].*)/$1n$2 # ng sound before k or g is similar to n. e.g. thank (xik -> xnk)
+    - derive/^(.+)(ks|gz)(.*)/$1x$3 # ks/gz sound can be reduced to x e.g. example (egzmpl -> exmpl)
+  key_binder/bindings/+:
+    # - {when: has_menu, accept: space, send: space }
+    # - {when: composing, accept: Delete, send: Escape }
