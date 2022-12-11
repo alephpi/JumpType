@@ -4,7 +4,7 @@ A customized English input method based on [Rime](https://rime.im/)
 
 ## Prologue
 
-`xs ln is kmpze by jmp tp wx the qbv kd.`
+`xs ln is kmpzd by jmp tp wx the abv kd.`
 
 This line is composed by JumpType with the above code.
 
