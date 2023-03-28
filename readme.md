@@ -2,6 +2,8 @@
 
 A customized English input method based on [Rime](https://rime.im/)
 
+A video demo: [JumpType：基于音节的英文输入方案] (https://www.bilibili.com/video/BV1nA41197x6/?share_source=copy_web&vd_source=cd8f52b3a67ef0e85985b32a4f622eef)
+
 ## Prologue
 
 `xs ln is kmpzd by jmp tp wx the abv kd.`
