@@ -7481,6 +7481,7 @@ centrifuge	sntrfyj	28
 centrifuges	sntrfyjs
 centrist	sntrst	6
 centrists	sntrsts
+centroid	sntrd
 cents	snts
 centuries	sncrs	513
 centurion	sntrn	14
@@ -11593,6 +11594,8 @@ data	dtq	3955
 database	dtbs	374
 databases	dtbss
 datas	dts
+dataset	dtst
+datasets	dtsts
 date	dt	3038
 dated	dtd	832
 dateline	dtln
@@ -13316,6 +13319,7 @@ discrete	dskrt	178
 discretion	dskrun	483
 discretionary	dskrunrq	102
 discretions	dskruns
+discriminant	dskrmnnt	74
 discriminate	dskrmnt	74
 discriminated	dskrmntd	36
 discriminates	dskrmnts
@@ -23950,6 +23954,7 @@ iniquity	inkwtq	37
 initial	inul	1393
 initialed	inuld	5
 initialing	inuli	0
+initialization	inulzun	10
 initialize	inulz	10
 initialized	inulzd
 initialling	inuli
@@ -24038,6 +24043,7 @@ inopportune	inptn	5
 inordinate	inrdnt	20
 inordinately	inrdntlq	9
 inorganic	inrgnk	134
+inpaint	inpnt	45
 inpatient	inpunt	45
 inpatients	inpunts
 input	inpt	746
@@ -30236,6 +30242,7 @@ mulligans	mlgns
 mulligatawny	mlgtnq	0
 mulling	mli	4
 mulls	mls
+multi	mltq	100
 multicolor	mltklq	3
 multicolored	mltkld	7
 multicultural	mltklcrl	47
@@ -49703,6 +49710,7 @@ variances	vrnss
 variant	vrnt	112
 variants	vrnts
 variation	vrun	756
+variational	vrunl	756
 variations	vruns
 varied	vrd	521
 variegate	vrgt	0
@@ -50941,6 +50949,7 @@ wherever	wrvq	360
 wherewithal	wrwxl	9
 wherry	wrq
 whet	wt	8
+whether	wxq	500
 whetstone	wtstn
 whetted	wtd	4
 whey	wq	27
@@ -51551,6 +51560,7 @@ worthy	wxq	486
 worts	wts
 wotan	wtn
 wouk	wk
+would	wd	500
 wound	wnd	398
 wounded	wndd	350
 wounding	wndi	25
