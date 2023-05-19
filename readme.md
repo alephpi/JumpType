@@ -1,6 +1,8 @@
 # JumpType
 
-A customized English input method based on [Rime](https://rime.im/)
+A pronunciation-designed English input method based on [Rime](https://rime.im/)
+
+An online demo can be found [here](https://jumptype.netlify.app/), which is based on [LibreService/my_rime](https://github.com/LibreService/my_rime)
 
 A video demo: [JumpType：基于音节的英文输入方案](https://www.bilibili.com/video/BV1nA41197x6/?share_source=copy_web&vd_source=cd8f52b3a67ef0e85985b32a4f622eef)
 
