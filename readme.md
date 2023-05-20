@@ -76,12 +76,12 @@ JumpType is far more than accomplished, as this doc is the first time I tried it
 **the encoding map is not fully determined, may be largely changed in the future.**
 
 - [x] space auto input
-- ~~[ ] build acronym dictionary~~ (directly type is enough)
+- [ ] ~~build acronym dictionary~~ (directly type is enough)
 - [ ] support initial capitalization transform
 - [ ] support full capitalization transform
 
 - [ ] continue optimizing encoding logic
-- [ ] make a web version (based on my-rime)
+- [x] make a web version (based on my-rime)
 - [ ] build French version
 
 ## Usage
