@@ -81,8 +81,8 @@ JumpType is far more than accomplished, as this doc is the first time I tried it
 - [ ] support full capitalization transform
 
 - [ ] continue optimizing encoding logic
-- [x] make a web version (based on my-rime)
-- [ ] build French version
+- [x] make a web version (see [my-rime](https://github.com/alephpi/my-rime))
+- [x] build French version (see [SauterTaper](https://github.com/alephpi/SauterTaper))
 
 ## Usage
 
