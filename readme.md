@@ -88,4 +88,4 @@ JumpType is far more than accomplished, as this doc is the first time I tried it
 
 We assume you are already familiar with Rime, if not, maybe take some look first in its official [wiki](https://github.com/rime/home/wiki).
 
-Add `jump_type_en.dict.yaml` and `jump_type.schema.yaml` file to your user directory, add `schema: jump_type` to the `schema_list` in `default.custom.yaml`, click redeploy and enjoy!
+You can use plum (the rime official package manager) or manually add `jump_type_en.dict.yaml` and `jump_type.schema.yaml` file to your user directory then add `schema: jump_type` to the `schema_list` in `default.custom.yaml`, click redeploy and enjoy!
