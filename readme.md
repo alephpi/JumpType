@@ -81,11 +81,11 @@ JumpType is far more than accomplished, as this doc is the first time I tried it
 - [ ] support full capitalization transform
 
 - [ ] continue optimizing encoding logic
-- [x] make a web version (based on my-rime)
-- [ ] build French version
+- [x] make a web version (see [my-rime](https://github.com/alephpi/my-rime))
+- [x] build French version (see [SauterTaper](https://github.com/alephpi/SauterTaper))
 
 ## Usage
 
 We assume you are already familiar with Rime, if not, maybe take some look first in its official [wiki](https://github.com/rime/home/wiki).
 
-Add `jump_type_en.dict.yaml` and `jump_type.schema.yaml` file to your user directory, add `schema: jump_type` to the `schema_list` in `default.custom.yaml`, click redeploy and enjoy!
+You can use plum (the rime official package manager) or manually add `jump_type_en.dict.yaml` and `jump_type.schema.yaml` file to your user directory then add `schema: jump_type` to the `schema_list` in `default.custom.yaml`, click redeploy and enjoy!
