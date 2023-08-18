@@ -15403,6 +15403,7 @@ enclosing	enklzi	67
 enclosure	enkloq	114
 enclosures	enklos
 encode	enkd	18
+encoder	enkdq	18
 encoded	enkdd
 encoding	enkdi	62
 encomium	enkmm	6
@@ -31825,6 +31826,7 @@ oilseeds	olsds
 oily	olq	38
 ointment	ontmnt	43
 ojibwa	ojbwq
+ok	ok
 oka	oka
 okayed	okd
 okays	oks
@@ -32043,6 +32045,7 @@ optimists	optmsts
 optimization	optmzun	146
 optimize	optmz	37
 optimized	optmzd
+optimizer	optmzq
 optimizing	optmzi
 optimum	optmm	205
 opting	opti	12
@@ -35289,6 +35292,7 @@ posing	pzi	34
 posit	pzt	17
 posited	pztd	20
 position	pzun	3231
+positional	pzunl	3000
 positioned	pzund
 positioning	pzuni	94
 positions	pzuns
@@ -36519,12 +36523,12 @@ prying	pri	13
 psalm	slm
 psalms	slms
 psalter	sltq
-pseudo	sdq	95
-pseudomonas	sdmnz
-pseudonym	sdnm	18
-pseudonyms	sdnms
-pseudoscience	sdsns	2
-pseudoscientific	sdsntfk	1
+pseudo	psdq	95
+pseudomonas	psdmnz
+pseudonym	psdnm	18
+pseudonyms	psdnms
+pseudoscience	psdsns	2
+pseudoscientific	psdsntfk	1
 psi	psi	95
 psilocybin	slsbn	2
 psoriasis	srss	17
@@ -40682,6 +40686,12 @@ scheduler	skjlq	11
 schedulers	skjls
 schedules	skjls
 scheduling	skjli	111
+schedule	udyl	875
+scheduled	udyld	361
+scheduler	udylq	11
+schedulers	udyls
+schedules	udyls
+scheduling	udyli	111
 scheele	ul
 schema	skmq	60
 schemas	skms	14
@@ -47620,6 +47630,7 @@ trailhead	trlhd	8
 trailing	trli	62
 trails	trls
 train	trn	935
+trainable	trnbl	500
 trained	trnd	542
 trainee	trnq	35
 trainees	trns
@@ -51981,3 +51992,4 @@ zurich	zrk
 zweig	zwg
 zydeco	zdkq	0
 zygote	zgt	7
+Transformer	Trnsfrmq	97
